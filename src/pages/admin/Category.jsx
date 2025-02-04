@@ -1,5 +1,5 @@
 import React from 'react'
-import FormCategory from '../../components/admin/Formcategory'
+import FormCategory from '../../components/admin/FormCategory'
 
 
 const Category = () => {
