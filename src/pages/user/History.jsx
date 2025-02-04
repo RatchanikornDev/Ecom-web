@@ -1,5 +1,5 @@
 import React from 'react'
-import HistoryCard from '../../components/card/historyCard'
+import HistoryCard from '../../components/card/HistoryCard'
 
 const History = () => {
   return (
